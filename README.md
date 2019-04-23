@@ -45,4 +45,5 @@ _Exemplo:_
 **Observações**
 
 _Se uma chave tem o mesmo nome de uma variável em Javascript, retira-se os dois pontos:   
-`[params: params] -> {params}`_
+`[params: params] -> {params}`_   
+_importar CommonModule em todos os modulos criados_
