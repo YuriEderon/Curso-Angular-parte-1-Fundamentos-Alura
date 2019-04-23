@@ -21,7 +21,7 @@ _*Obs: npm install nos 2 projetos_
   * após instalado, adicionar o caminho no styles do **angular.json**:   
   `"styles": [
               ...
-              "./node_modules/font-awesome/dist/css/font-awesome.css"
+              "./node_modules/font-awesome/css/font-awesome.css"
             ],`
   
 **Nomenclatura dos arquivos**
