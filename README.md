@@ -11,6 +11,7 @@ _*Obs: npm install nos 2 projetos_
 
 * npm install -g @angular/cli@6.0.7
 * ng new <nome do projeto>
+* npm install font-awesome@4.7.0
   
 **Nomenclatura dos arquivos**
 
