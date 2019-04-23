@@ -1,6 +1,8 @@
 # Curso-Angular-parte-1-Fundamentos-Alura
 
-alurapic: ng serve --open
-api	: npm start
+** Inicializando o projeto **
 
-*npm install nos 2 projetos
+*módulo alurapic: ng serve --open
+*módulo api		: npm start
+
+*Obs: npm install nos 2 projetos
