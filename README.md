@@ -53,6 +53,7 @@ _Exemplo:_
     `observable.subscribe();`   
 * **Resolver**: executado após o ativamento da rota e antes da renderização do componente.
 * **Debounce (Pattern)**: do tipo "subject". Quem se inscreve nele recebe o valor do next.
+* **ng-content**: cria uma lacuna na diretiva para inserir o html.
 
 **Observações**
 
