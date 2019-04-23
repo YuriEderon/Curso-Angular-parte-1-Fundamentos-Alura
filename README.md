@@ -11,7 +11,18 @@ _*Obs: npm install nos 2 projetos_
 
 * npm install -g @angular/cli@6.0.7
 * ng new <nome do projeto>
+* npm install bootstrap@4.1.1
+  * após instalado, adicionar o caminho no styles do **angular.json**:   
+  `"styles": [
+              ...
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ],`
 * npm install font-awesome@4.7.0
+  * após instalado, adicionar o caminho no styles do **angular.json**:   
+  `"styles": [
+              ...
+              "./node_modules/font-awesome/dist/css/font-awesome.css"
+            ],`
   
 **Nomenclatura dos arquivos**
 
